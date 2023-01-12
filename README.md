@@ -2,9 +2,13 @@
 
 This project was created for a technical assesment.
 
-## Available Scripts
+To view the deployed netlify app visit:
+### https://dynamic-sunshine-615fee.netlify.app/
+
 
 In the project directory, you can run:
+
+### `npm install`
 
 ### `npm start`
 
