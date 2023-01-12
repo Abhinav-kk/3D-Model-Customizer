@@ -1,0 +1,78 @@
+@import url("https://rsms.me/inter/inter.css");
+
+html,
+body,
+#root {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    outline: none;
+    width: 100vw;
+    height: 100vh;
+}
+
+body {
+    background: rgb(230, 211, 162);
+    font-family: "Inter var", sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+#root {
+    width: 90%;
+    padding-top: 2%;
+}
+
+h1 {
+    position: absolute;
+    top: 43px;
+    left: 140px;
+    padding: 0;
+    margin: 40px;
+    font-size: 5em;
+    font-weight: 600;
+    line-height: 0.7em;
+    letter-spacing: -4px;
+    color: #272730;
+}
+
+.selectModel {
+    background-color: #70ac87;
+    color: white;
+    padding: 12px;
+    font-family: Arial;
+    text-align: center;
+    border-radius: 50px;
+    width: 500px;
+    margin: auto;
+}
+
+.picker {
+    position: absolute !important;
+    top: 230px;
+    left: 70px;
+    width: 90px !important;
+    height: 90px !important;
+}
+
+.pickerText {
+    position: absolute;
+    top: 230px;
+    left: 180px;
+    font-size: xx-large;
+
+}
+
+.credits {
+    position: absolute;
+    bottom: 20px;
+    width: 30%;
+}
+
+.credits2 {
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+    width: 30%;
+}
