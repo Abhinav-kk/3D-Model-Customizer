@@ -1,6 +1,6 @@
 # 3D Model Customizer App
 
-This project was created for a technical assesment
+This project was created for a technical assesment.
 
 ## Available Scripts
 
